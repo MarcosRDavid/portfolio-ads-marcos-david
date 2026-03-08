@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Portfólio – Marcos David
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento de software e resolução de problemas.
